@@ -5,7 +5,7 @@
 # <g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> 
 Certified Tech Developer - Front End III : Prática Integradora
 
-#Integrantes
+# Integrantes
 - Adriana Guedes
 - Gabrielle Araujo
 - Juliana Novais
@@ -13,7 +13,7 @@ Certified Tech Developer - Front End III : Prática Integradora
 - Laiane Barbalho
 - Washington Conceição
 
-#URL do projeto https://checkpoint-ii-front-iii-tau.vercel.app/
+# URL do projeto https://checkpoint-ii-front-iii-tau.vercel.app/
 
 
 ### Tecnologias:
